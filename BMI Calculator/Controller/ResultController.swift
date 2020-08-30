@@ -2,8 +2,7 @@
 //  ResultController.swift
 //  BMI Calculator
 //
-//  Created by Vananaz Developer on 8/27/20.
-//  Copyright © 2020 Roe Developer. All rights reserved.
+//  Created by Roelan Geil Eroy on 8/27/20.
 //
 
 import UIKit
